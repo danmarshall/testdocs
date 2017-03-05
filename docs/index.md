@@ -1,3 +1,6 @@
+---
+title: home
+---
 # home page of docs
 
 Page content
