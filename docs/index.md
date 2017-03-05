@@ -11,3 +11,8 @@ Page content
 Title: {{ snippet.title }}
  {{ snippet.content }}
 {% endfor %}
+
+# Layouts
+{% for layout in site.layouts %}
+ layout found
+{% endfor %}
