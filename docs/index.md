@@ -1,6 +1,3 @@
----
-title: home
----
 # home page of docs
 
 Page content
@@ -8,6 +5,5 @@ Page content
 # Snippets
 
 {% for snippet in site.snippets %}
-Title: {{ snippet.title }}
  {{ snippet.content }}
 {% endfor %}
