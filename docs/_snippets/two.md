@@ -1,6 +1,6 @@
 ---
-title: Snippet2
+title: Snippet 2
 ---
-## Snippet2
+## Snippet 2
 
 Snippet 2 content
