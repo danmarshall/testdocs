@@ -1,7 +1,7 @@
 ---
-title: Snippet1
+title: Snippet 1
 ---
 
-## Snippet1
+## Snippet 1
 
 Snippet 1 content
